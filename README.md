@@ -144,7 +144,6 @@ Progressive ensemble YOLOv11 with curriculum learning — **93.9% mAP@0.5**. Acc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anu790j&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anu790j&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" />
 
 </div>
