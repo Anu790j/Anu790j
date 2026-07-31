@@ -131,11 +131,9 @@ Progressive ensemble YOLOv11 with curriculum learning — **93.9% mAP@0.5**. Acc
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,nodejs,express,nextjs,react,ts,js&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,mongodb,firebase,redis,fastapi,git,linux&theme=dark" />
-
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,nodejs,express,nextjs,react,ts,js,aws,docker,nginx,mongodb,firebase,redis,fastapi,git,linux&theme=dark" />
+  </marquee>
 </div>
 
 ---
