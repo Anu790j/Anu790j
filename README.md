@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=4+Published+Papers+%7C+IEEE+ICIP+%2B+ACPR+Springer;10%2C000%2B+Users+Served+%7C+30%2B+Production+APIs;Backend+Lead+%7C+Research+Assistant+%40+IIT+Roorkee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=10%2C000%2B+Users+Served+%7C+30%2B+Production+APIs;Backend+Lead+%7C+Research+Assistant+%40+IIT+Roorkee)](https://git.io/typing-svg)
 
 <br/>
 
