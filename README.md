@@ -1,23 +1,27 @@
 <div align="center">
 
-# Hey, I'm Anubhav Jain 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Anubhav%20Jain&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20build%20products%20and%20research%20AI%20—%20often%20at%20the%20same%20time.&descSize=18&descColor=8b949e&descAlignY=55" width="100%"/>
 
-**I build products and research AI — often at the same time.**
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=4+Published+Papers+%7C+IEEE+ICIP+%2B+ACPR+Springer;10%2C000%2B+Users+Served+%7C+30%2B+Production+APIs;Backend+Lead+%7C+Research+Assistant+%40+IIT+Roorkee)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-jain-bb0054228/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhavj280@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anu790j.github.io/meetAnubhav/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anu790j)
+![Profile Views](https://komarev.com/ghpvc/?username=Anu790j&style=for-the-badge&color=1f6feb)
 
 </div>
 
 ---
 
-I've shipped **production backends** serving 10,000+ users and published **4 research papers** in computer vision — all before graduating. Former **Research Assistant at IIT Roorkee** and **Backend Lead at Strategyz**. I've taken products from planning → architecture → implementation → deployment, and I've taken research problems from field observation → paper → published.
+I've shipped **production backends** serving 10,000+ users and published **4 research papers** in computer vision. Former **Research Assistant at IIT Roorkee** and **Backend Lead at Strategyz**. I've taken products from planning → architecture → implementation → deployment, and I've taken research problems from field observation → paper → published.
 
 ---
 
-## 🚀 Products I've Built
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Products I've Built
 
 <table>
 <tr>
@@ -31,7 +35,7 @@ Enterprise HRMS serving **10,000+ users**. Proposed and led S3 → DynamoDB migr
 </td>
 <td width="50%">
 
-### 🌾 [KisaanSetu](https://github.com/Anu790j) — Farmicon
+### 🌾 KisaanSetu — Farmicon
 **Full-Stack Developer** · React 19, Express, Firebase
 
 Agricultural marketplace connecting Farmers ↔ FPOs ↔ Buyers. Atomic Firestore batch-writes for data consistency. Bilingual (Hindi/English) via 106KB i18n engine. GeoJSON + MongoDB `2dsphere` for geospatial farmer-FPO matching.
@@ -41,7 +45,7 @@ Agricultural marketplace connecting Farmers ↔ FPOs ↔ Buyers. Atomic Firestor
 <tr>
 <td width="50%">
 
-### 💳 [Sang](https://github.com/Anu790j) — Digital Visiting Card
+### 💳 Sang — Digital Visiting Card
 **Solo Backend** · Node.js, MongoDB, Express
 
 End-to-end: planning → architecture → implementation → deployment. JWT auth, dynamic profile CRUD, real-time QR code generation for contactless sharing.
@@ -60,7 +64,7 @@ Professional portfolio for a medical practitioner. Built with Next.js for SSR/SE
 
 ---
 
-## 📄 Publications
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Publications
 
 | Paper | Venue | Status |
 |:------|:------|:-------|
@@ -71,7 +75,7 @@ Professional portfolio for a medical practitioner. Built with Next.js for SSR/SE
 
 ---
 
-## 🔬 Research Work
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Research Work
 
 <table>
 <tr>
@@ -106,40 +110,13 @@ Progressive ensemble YOLOv11 with curriculum learning — **93.9% mAP@0.5**. Acc
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
 
 <div align="center">
 
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-
-**Backend & Cloud**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,nodejs,express,nextjs,react,ts,js&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,mongodb,firebase,redis,fastapi,git,linux&theme=dark" />
 
 </div>
 
@@ -149,8 +126,16 @@ Progressive ensemble YOLOv11 with curriculum learning — **93.9% mAP@0.5**. Acc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anu790j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anu790j&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anu790j&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anu790j&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anu790j&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="95%"/>
 
 </div>
 
@@ -158,8 +143,6 @@ Progressive ensemble YOLOv11 with curriculum learning — **93.9% mAP@0.5**. Acc
 
 <div align="center">
 
-**I ship products and publish papers. Looking for roles where I can do both.**
-
-*Open to backend engineering, AI/ML engineering, research roles, and anything that involves building real systems.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
 
 </div>
