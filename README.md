@@ -2,7 +2,7 @@
 
 # Hey, I'm Anubhav Jain 👋
 
-**Research Engineer · Backend Architect · Computer Vision Researcher**
+**I build products and research AI — often at the same time.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-jain-bb0054228/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhavj280@gmail.com)
@@ -13,9 +13,50 @@
 
 ---
 
-I build systems that work at scale and research AI that works in the real world. Former **Research Assistant at IIT Roorkee**, where I published **4 papers** in computer vision and deep learning — each one born from a real problem I encountered while building a riverine waste monitoring system.
+I've shipped **production backends** serving 10,000+ users and published **4 research papers** in computer vision — all before graduating. Former **Research Assistant at IIT Roorkee** and **Backend Lead at Strategyz**. I've taken products from planning → architecture → implementation → deployment, and I've taken research problems from field observation → paper → published.
 
-I believe the best research comes from **deploying models in the wild and fixing what breaks.**
+---
+
+## 🚀 Products I've Built
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Strategyz HRMS Backend
+**Backend Lead** · Node.js, DynamoDB, AWS
+
+Enterprise HRMS serving **10,000+ users**. Proposed and led S3 → DynamoDB migration. Built a **1,229-line abstraction layer** (28 reusable functions), 30+ REST APIs for Payroll, Attendance, RBAC, and Leave Management. Deployed with Docker on EC2.
+
+</td>
+<td width="50%">
+
+### 🌾 [KisaanSetu](https://github.com/Anu790j) — Farmicon
+**Full-Stack Developer** · React 19, Express, Firebase
+
+Agricultural marketplace connecting Farmers ↔ FPOs ↔ Buyers. Atomic Firestore batch-writes for data consistency. Bilingual (Hindi/English) via 106KB i18n engine. GeoJSON + MongoDB `2dsphere` for geospatial farmer-FPO matching.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💳 [Sang](https://github.com/Anu790j) — Digital Visiting Card
+**Solo Backend** · Node.js, MongoDB, Express
+
+End-to-end: planning → architecture → implementation → deployment. JWT auth, dynamic profile CRUD, real-time QR code generation for contactless sharing.
+
+</td>
+<td width="50%">
+
+### 👨‍⚕️ [Dr. Sanjeev Portfolio](https://github.com/Anu790j/Dr.SanjeevPortfolio)
+**Full-Stack** · Next.js, TypeScript
+
+Professional portfolio for a medical practitioner. Built with Next.js for SSR/SEO, responsive design, and clean content architecture.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -30,60 +71,7 @@ I believe the best research comes from **deploying models in the wild and fixing
 
 ---
 
-## 🔬 What I Work On
-
-```
-Data Collection → Model Training (YOLOv11 Ensemble, 93.9% mAP)
-       ↓
-"Models forget when I retrain" → Continual Learning (OFA, 10× less forgetting)
-       ↓
-"CVAT is too complex for volunteers" → AquaLabel (In-browser ONNX inference)
-       ↓
-"Models fail at night" → PINCurve-S (20K params, 125× more efficient than SOTA)
-```
-
-Each problem led to a published paper. That's how I work.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-
-**Backend & Cloud**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</div>
-
----
-
-## 📌 Featured Work
+## 🔬 Research Work
 
 <table>
 <tr>
@@ -109,12 +97,51 @@ Progressive ensemble YOLOv11 with curriculum learning — **93.9% mAP@0.5**. Acc
 </td>
 <td width="50%">
 
-### 🏢 [Strategyz Inc](https://github.com/Anu790j/Strategyz-Inc)
-Enterprise HRMS backend supporting 10,000+ users. DynamoDB migration, 1,229-line abstraction layer, 30+ REST APIs.
+### 🔦 PINCurve-S
+20K-parameter physics-informed architecture for low-light enhancement — **125× more efficient than SOTA**. Accepted at IEEE ICIP 2026.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+
+**Backend & Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</div>
 
 ---
 
@@ -131,8 +158,8 @@ Enterprise HRMS backend supporting 10,000+ users. DynamoDB migration, 1,229-line
 
 <div align="center">
 
-**💬 Open to research collaborations, backend engineering roles, and interesting problems.**
+**I ship products and publish papers. Looking for roles where I can do both.**
 
-*If you're working on something cool in Computer Vision, Continual Learning, or scalable systems — let's talk.*
+*Open to backend engineering, AI/ML engineering, research roles, and anything that involves building real systems.*
 
 </div>
