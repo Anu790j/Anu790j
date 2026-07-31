@@ -60,6 +60,24 @@ Professional portfolio for a medical practitioner. Built with Next.js for SSR/SE
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🚜 [Farmicon Website](https://farmicon.in/)
+**Full-Stack Developer** · React, MUI, Vite
+
+Corporate website built from scratch covering UI/UX design, frontend development, and deployment for Farmicon.
+
+</td>
+<td width="50%">
+
+### 🏷️ [AquaLabel](https://github.com/Anu790j/AnnotationTool)
+**Creator** · React, FastAPI, ONNX
+
+Browser-based annotation platform with **in-browser YOLOv11 inference** via ONNX Runtime Web. Zero server costs and complete data privacy.
+
+</td>
+</tr>
 </table>
 
 ---
@@ -87,8 +105,8 @@ Professional portfolio for a medical practitioner. Built with Next.js for SSR/SE
 </td>
 <td width="50%">
 
-### 🏷️ [AquaLabel](https://github.com/Anu790j/AnnotationTool)
-Browser-based annotation platform with **in-browser YOLOv11 inference** via ONNX Runtime Web. Zero server costs, complete data privacy.
+### 🧠 Output Fisher Anchoring (OFA)
+Proposed a variance-weighted functional regularization method to mitigate catastrophic forgetting in continual object detection. Currently under review.
 
 </td>
 </tr>
